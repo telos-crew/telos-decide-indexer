@@ -57,6 +57,7 @@
   "dependencies": {
     "@adonisjs/core": "^5.8.0",
     "@adonisjs/lucid": "^18.4.1",
+    "@adonisjs/redis": "^7.3.4",
     "@adonisjs/repl": "^3.1.0",
     "@eosrio/hyperion-stream-client": "^1.0.3",
     "axios": "^1.5.0",
